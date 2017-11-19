@@ -1,4 +1,4 @@
-package com.accountmarket.login;
+package com.accountmarket.entities;
 
 import org.springframework.data.annotation.Id;
 

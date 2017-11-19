@@ -1,6 +1,6 @@
 package com.accountmarket.login.rest;
 
-import com.accountmarket.login.User;
+import com.accountmarket.entities.User;
 import com.accountmarket.login.data.UserRepository;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

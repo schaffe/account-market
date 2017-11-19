@@ -1,3 +1,5 @@
 rootProject.name = 'api'
 include 'login-service'
+include 'marketplace-service'
+include 'entities-common'
 
