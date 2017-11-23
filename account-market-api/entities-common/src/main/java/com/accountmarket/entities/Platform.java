@@ -1,5 +1,9 @@
 package com.accountmarket.entities;
 
 public enum Platform {
-    GMAIL
+    GMAIL;
+
+    public static Platform getPlatformByName(String name) {
+        return Platform.valueOf(name.toUpperCase());
+    }
 }
